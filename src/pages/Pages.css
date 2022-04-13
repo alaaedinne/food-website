@@ -1,0 +1,31 @@
+.image{
+    height:50em;
+    width:auto;
+    flex:2;
+    border: solid .2px black;
+    background-image: url(../images/cover.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    /*background-position: center;*/
+    box-shadow: 10px 5px 5px gray;
+}
+.AllBodyDetails{
+    align-items: center;
+}
+.Wrapper{
+    display: flex;
+}
+.Image_part{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+}
+.Image_part img{
+    /*background-image: url(../images/card1.jpg);*/
+}
+h1{
+    color: rgb(233, 183, 114);
+}
+h3{
+    color: black;
+}
