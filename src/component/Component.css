@@ -51,3 +51,13 @@
 .carditem{
     display:contents;
 }
+.alink:hover{
+    color: #04021c;
+}
+.alink{
+    flex:1;
+    color:black;
+    text-decoration: none;
+    font-weight:bold;
+    font-size:1.5em;
+}

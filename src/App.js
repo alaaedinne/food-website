@@ -7,6 +7,7 @@ import Carddetails3 from './pages/Carddetails3';
 import Carddetails4 from './pages/Carddetails4';
 import Carddetails5 from './pages/Carddetails5';
 import Carddetails6 from './pages/Carddetails6';
+import Somethings from './pages/Somethings';
 
 function App() {
  
@@ -15,13 +16,19 @@ function App() {
     <div>
       <BrowserRouter>
         <Routes>
-          <Route path='' exact element={<Home/>} />
+          <Route path='/' exact element={<Home/>} />
           <Route path='/details' exact element={<Carddetails/>} />
           <Route path='/details2' exact element={<Carddetails2/>} />
           <Route path='/details3' exact element={<Carddetails3/>} />
           <Route path='/details4' exact element={<Carddetails4/>} />
           <Route path='/details5' exact element={<Carddetails5/>} />
           <Route path='/details6' exact element={<Carddetails6/>} />
+          <Route path='/sandwich' exact element={<Somethings/>} />
+          <Route path='/noodles' exact element={<Somethings/>} />
+          <Route path='/curry' exact element={<Somethings/>} />
+          <Route path='/smothie' exact element={<Somethings/>} />
+          <Route path='/soup' exact element={<Somethings/>} />
+          <Route path='/salad' exact element={<Somethings/>} />
         </Routes>
       </BrowserRouter>
     </div>

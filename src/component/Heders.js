@@ -21,22 +21,22 @@ function Heders() {
   return (
     <Container>
         <Wrapper>
-            <a className='a' href='#'>
+            <a className='a' href='/sandwich'>
                 Sandwich
             </a>
-            <a className='a' href='#'>
+            <a className='a' href='/noodles'>
                 Noodles
             </a>
-            <a className='a' href='#'>
+            <a className='a' href='/curry'>
                 Curry
             </a>
-            <a className='a' href='#'>
+            <a className='a' href='/smothie'>
                 Smothie
             </a>
-            <a className='a' href='#'>
+            <a className='a' href='/soup'>
                 Soup
             </a>
-            <a className='b' href='#'>
+            <a className='b' href='/salad'>
                 Salad
             </a>
             

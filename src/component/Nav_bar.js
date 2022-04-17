@@ -1,6 +1,7 @@
 import React from 'react'
 import styledComponents from 'styled-components';
 import Search from './Search';
+import './Component.css';
 function Nav_bar() {
 
   const Container = styledComponents.div`
@@ -13,8 +14,10 @@ function Nav_bar() {
   justify-content: space-between;
   display:flex;
   `
-    const Left = styledComponents.div`
+    const Left = styledComponents.a`
     flex:1;
+    color:black;
+    text-decoration: none;
     font-weight:bold;
     font-size:1.5em;
     `
@@ -25,9 +28,7 @@ function Nav_bar() {
   return (
     <Container>
         <Wrapper>
-            <Left>
-                CLUB 80'S
-            </Left>
+            <a className='alink' href='/'> CLUB 80'S</a>
             <Search/>
         </Wrapper> 
     </Container>
@@ -35,3 +36,5 @@ function Nav_bar() {
 }
 
 export default Nav_bar
+
+

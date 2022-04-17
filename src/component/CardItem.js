@@ -11,6 +11,7 @@ import '../pages/Carddetails'
 import Carddetails from '../pages/Carddetails';
 import ProductItems from "../Data"
 import { Link } from 'react-router-dom';
+import searchTerm from './Search'
 
 const CardItem = () => {
   
