@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav_bar from '../component/Navbar';
+import Navbar from '../component/Navbar';
 import Heders from '../component/Heders';
 import CardItem from '../component/CardItem'
 import styledComponents from 'styled-components';
@@ -26,7 +26,7 @@ function Home() {
     `
   return (
     <All>
-    <Nav_bar/>
+    <Navbar/>
     <Heders/>
     <Wrapper>
         <Center></Center>

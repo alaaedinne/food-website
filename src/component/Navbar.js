@@ -2,7 +2,7 @@ import React from 'react'
 import styledComponents from 'styled-components';
 import Search from './Search';
 import './Component.css';
-function Nav_bar() {
+function Navbar() {
 
   const Container = styledComponents.div`
     height: 60px;
@@ -25,6 +25,6 @@ function Nav_bar() {
   )
 }
 
-export default Nav_bar
+export default Navbar
 
 

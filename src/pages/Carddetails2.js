@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav_bar from '../component/Navbar'
+import Navbar from '../component/Navbar'
 import Headers from '../component/Heders'
 import './Pages.css'
 import { Container , Row , Col } from 'react-bootstrap'
@@ -10,7 +10,7 @@ const Carddetails2 = () => {
   
   return (
     <div className='AllBodyDetails'>
-        <Nav_bar/>
+        <Navbar/>
         <Headers/>
         <br/> 
           <Container fluid>

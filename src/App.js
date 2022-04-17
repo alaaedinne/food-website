@@ -1,6 +1,6 @@
 import Home from './pages/Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter , Link, Route, Routes } from 'react-router-dom';
+import { BrowserRouter , Route, Routes } from 'react-router-dom';
 import Carddetails from './pages/Carddetails';
 import Carddetails2 from './pages/Carddetails2';
 import Carddetails3 from './pages/Carddetails3';
