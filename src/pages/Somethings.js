@@ -1,11 +1,11 @@
 import React from 'react'
 import Heders from '../component/Heders'
-import Nav_bar from '../component/Navbar'
+import Navbar from '../component/Navbar'
 
 const Somethings = () => {
   return (
     <div>
-        <Nav_bar/>
+        <Navbar/>
         <Heders/>
         <br/>
         <br/>
