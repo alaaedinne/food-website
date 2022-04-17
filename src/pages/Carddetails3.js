@@ -22,7 +22,7 @@ const Carddetails3 = () => {
               </Col>
               <Col>
                 <div className='Ingredients'>
-                  <h1>Miso Sesame Soba Noodles</h1>
+                  <h1>Warm Pearl Couscous Salad</h1>
                   <h3>Ingredients :</h3>
                   <div> Dressing.</div>
                   <div> ⅓ cup (80 mL) rice vinegar.</div>

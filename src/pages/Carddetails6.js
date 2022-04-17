@@ -22,8 +22,8 @@ const Carddetails6 = () => {
               </Col>
               <Col>
                 <div className='Ingredients'>
-                  <h1>Warm Pearl </h1>
-                  <h1>Couscous Salad</h1>
+                  <h1>Potato &  </h1>
+                  <h1> Red Lentil Soup</h1>
                   <h3>Ingredients :</h3>
                   <div> Salad.</div>
                   <div> 1 cup (200 g) uncooked pearl couscous .</div>

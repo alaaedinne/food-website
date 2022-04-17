@@ -22,8 +22,7 @@ const Carddetails4 = () => {
               </Col>
               <Col>
                 <div className='Ingredients'>
-                  <h1>Mushroom &</h1>
-                  <h1>Kidney Bean Coconut Curry</h1>
+                  <h1>Miso Sesame Soba Noodles</h1>
                   <h3>Ingredients :</h3>
                   <div> 1¼ cups (250 g) uncooked white rice, rinsed .</div>
                   <div> 2 tsp (10 mL) vegetable oil .</div>

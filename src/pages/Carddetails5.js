@@ -22,8 +22,7 @@ const Carddetails5 = () => {
               </Col>
               <Col>
                 <div className='Ingredients'>
-                  <h1>Potato & </h1>
-                  <h1>Red Lentil Soup</h1>
+                  <h1>Avocado Toast</h1>
                   <h3>Ingredients :</h3>
                   <div> Soup.</div>
                   <div> 2 tsp (10 mL) vegetable oil .</div>

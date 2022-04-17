@@ -22,7 +22,8 @@ const Carddetails2 = () => {
               </Col>
               <Col>
                 <div className='Ingredients'>
-                  <h1>Avocado Toast</h1>
+                  <h1>Mushroom & </h1>
+                  <h1>Kidney Bean Coconut Curry</h1>
                   <h3>Ingredients :</h3>
                   <div> 1½ cups (268 g) cooked cannellini beans .</div>
                   <div> 1½ Tbsp (22 mL) chipotle adobo sauce, plus more to taste.</div>
