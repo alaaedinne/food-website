@@ -7,7 +7,7 @@ function Nav_bar() {
   const Container = styledComponents.div`
     height: 60px;
     background-color: #ccd5ae;
-    box-shadow: 10px 5px 5px gray;  
+    box-shadow: 10px 5px 5px gray;
   `
   const Wrapper = styledComponents.div`
   padding:10px 6em;

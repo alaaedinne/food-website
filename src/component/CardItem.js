@@ -25,7 +25,7 @@ const CardItem = () => {
                   {card.text}
               </Card.Text>
               <Stack className='col-md-6 mx-auto'>
-              <a href={card.href} className='btn' variant="secondary" style={{borderRadius:"25px", backgroundColor:"rgb(233, 183, 114)" , borderColor:"rgb(233, 183, 114)", color:"white" }} >Add to card</a>
+              <a href={card.href} className='btn' variant="secondary" style={{borderRadius:"25px", backgroundColor:"rgb(233, 183, 114)" , borderColor:"rgb(233, 183, 114)", color:"white" }} >Full recipe</a>
               </Stack>
           </Card.Body>
       </Card>
