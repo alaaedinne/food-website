@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav_bar from '../component/Nav_bar';
+import Nav_bar from '../component/Navbar';
 import Heders from '../component/Heders';
 import CardItem from '../component/CardItem'
 import styledComponents from 'styled-components';
@@ -15,15 +15,7 @@ function Home() {
     font-size:1.5em;
     font-weight:bold;
     `
-    const Div = styledComponents.div`
-    
-    `
-    const Zzz = styledComponents.img`
-    height:10em;
-    width:auto;
-    flex:2;
-    border: solid .2px black;
-    `
+
     const Wrapper = styledComponents.div`
     padding:10px 11em ;
     justify-content: space-between;

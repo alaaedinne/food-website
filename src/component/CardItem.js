@@ -1,17 +1,8 @@
 import React from 'react'
-import {Card , Button, Stack} from 'react-bootstrap';
-import pk1 from '../images/card1.jpg'
-import pk2 from '../images/card2.jpg'
-import pk3 from '../images/card3.jpg'
-import pk4 from '../images/card4.jpg'
-import pk5 from '../images/card5.jpg'
-import pk6 from '../images/card6.jpg'
+import {Card , Stack} from 'react-bootstrap';
 import '../component/Component.css'
 import '../pages/Carddetails'
-import Carddetails from '../pages/Carddetails';
-import ProductItems from "../Data"
-import { Link } from 'react-router-dom';
-import searchTerm from './Search'
+import ProductItems from '../Data'
 
 const CardItem = () => {
   

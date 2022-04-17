@@ -14,17 +14,7 @@ function Nav_bar() {
   justify-content: space-between;
   display:flex;
   `
-    const Left = styledComponents.a`
-    flex:1;
-    color:black;
-    text-decoration: none;
-    font-weight:bold;
-    font-size:1.5em;
-    `
-    const Right = styledComponents.input`
-    border: solid .2px black;
-    border-radius:25px;
-    `
+
   return (
     <Container>
         <Wrapper>

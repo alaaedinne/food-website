@@ -1,6 +1,6 @@
 import React from 'react'
 import Heders from '../component/Heders'
-import Nav_bar from '../component/Nav_bar'
+import Nav_bar from '../component/Navbar'
 
 const Somethings = () => {
   return (

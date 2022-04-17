@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav_bar from '../component/Nav_bar'
+import Nav_bar from '../component/Navbar'
 import Headers from '../component/Heders'
 import './Pages.css'
 import { Container , Row , Col } from 'react-bootstrap'
@@ -17,7 +17,7 @@ const Carddetails3 = () => {
             <Row className="Row">
               <Col>
                   <div className='Image_part'>
-                    <img src={img}/>
+                    <img src={img} alt=""/>
                   </div>
               </Col>
               <Col>

@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav_bar from '../component/Nav_bar'
+import Nav_bar from '../component/Navbar'
 import Headers from '../component/Heders'
 import './Pages.css'
 import { Container , Row , Col } from 'react-bootstrap'

@@ -11,13 +11,7 @@ function Heders() {
   justify-content: space-between;
   display:flex;
   `
-    const Center = styledComponents.a`
-    flex:1;
-    color:gray;
-    `
-    const Left = styledComponents.a`
-    color:gray;
-    `
+
   return (
     <Container>
         <Wrapper>
