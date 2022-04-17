@@ -21,30 +21,35 @@ const Carddetails2 = () => {
                   </div>
               </Col>
               <Col>
-                <div className='Ingredients'>
+              <div className='Ingredients'>
                   <h1>Mushroom & </h1>
-                  <h1>Kidney Bean Coconut Curry</h1>
+                  <h1> Kidney Bean Coconut Curry</h1>
                   <h3>Ingredients :</h3>
-                  <div> 1½ cups (268 g) cooked cannellini beans .</div>
-                  <div> 1½ Tbsp (22 mL) chipotle adobo sauce, plus more to taste.</div>
-                  <div> 1 Tbsp (2 g) nutritional yeast flakes.</div>
-                  <div> 1 tsp (5 mL) maple syrup.</div>
-                  <div> ½ tsp onion powder.</div>
-                  <div> ½ tsp garlic powder.</div>
-                  <div> ½ tsp salt.</div>
-                  <div> ¼ tsp ground black pepper.</div>
+                  <div> 1¼ cups (250 g) uncooked white rice, rinsed .</div>
                   <div> 2 tsp (10 mL) vegetable oil .</div>
-                  <div> 4 slices whole wheat bread .</div>
-                  <div> 1 cup (165 g) canned corn, drained, rinsed.</div>
-                  <div> 1 avocado, sliced.</div>
-                  <div> 1 stalk green onion, thinly sliced.</div>
-            
+                  <div> 1 medium onion, chopped.</div>
+                  <div> 3 cloves garlic, minced.</div>
+                  <div> 1 fresh jalapeño, minced.</div>
+                  <div> 1 tsp (2 g) freshly grated ginger.</div>
+                  <div> 3½ cups (245 g) button mushrooms, chopped.</div>
+                  <div> 1 Tbsp (5 g) garam masala.</div>
+                  <div> 2 tsp (6 g) ground cumin.</div>
+                  <div> 2 tsp (4 g) ground coriander.</div>
+                  <div> ½ tsp salt.</div>
+                  <div> 1⅔ cups (399 mL) canned crushed tomatoes.</div>
+                  <div> 1⅔ cups (399 mL) canned full-fat coconut milk.</div>
+                  <div> 1⅓ cups (236 g) cooked red kidney beans.</div>
+                  <div> 2 cups (60 g) fresh spinach.</div>
+                  <div> ½ lime, juiced.</div>
                   
                   <h3>Direction :</h3>
-                  <p>
-                  To a small food processor, add the beans, chipotle sauce, nutritional yeast, maple syrup, onion powder, garlic powder, salt, and black pepper. Blend until smooth and creamy, scraping down the sides as needed. <br/> Heat a large pan on medium-high heat and add half of the oil. Grill the slices of bread on each side for 1 - 2 minutes, or until toasted and golden. Set aside. <br/>Next, wipe out the residue that might be left in the pan, and add the rest of the oil and corn. Cook for 4 - 5 minutes, stirring occasionally, or until the corn has some golden-brown spots.
-Top the toasted bread with chipotle bean spread avocado, corn, green onion, and black sesame seeds. Garnish with chili flakes and enjoy!
+                  <p>Cook the rice according to the package instructions.<br/>
+                  In a large pot over medium-high heat, heat the oil and add the onion. Sauté for 3 - 4 minutes, adding splashes of water if needed to deglaze the pan.                  <br/> Taste test. The raspberries are tart and the lemon is sour.If you feeel it's needed, add more agave syrup (or maple syrup) to cut though the tartness. 
+                  <br/> Meanwhile, prepare the garlic, jalapeño, and ginger. Then add these to the pot to cook for 2 minutes. Stir often. <br/> Next add in the mushrooms, garam masala, cumin, coriander, and salt and cook for 4 - 5 minutes, or until the mushrooms have released their moisture and are soft. Add a splash of water if needed to prevent the spices from burning.
+                   <br/> Add the tomatoes, coconut milk, and kidney beans. Stir and bring to a gentle boil. Cook for 5 minutes, stirring often. Then add in the spinach and stir until wilted.
+Before serving, squeeze in the lime juice. Serve with rice or naan, fresh cilantro leaves and extra lime wedges if desired. 
 
+                   <br/>Enjoy!
                   </p>
                 </div>
               </Col>
@@ -56,3 +61,4 @@ Top the toasted bread with chipotle bean spread avocado, corn, green onion, and 
 }
 
 export default Carddetails2
+

@@ -21,38 +21,31 @@ const Carddetails3 = () => {
                   </div>
               </Col>
               <Col>
-                <div className='Ingredients'>
-                  <h1>Warm Pearl Couscous Salad</h1>
+              <div className='Ingredients'>
+                  <h1>Warm Pearl Couscous Salad </h1>
                   <h3>Ingredients :</h3>
-                  <div> Dressing.</div>
-                  <div> ⅓ cup (80 mL) rice vinegar.</div>
-                  <div> ¼ cup (60 mL) tahini.</div>
-                  <div> 3 Tbsp (45 mL) white miso paste.</div>
-                  <div> 2 Tbsp (30 mL) dark soy sauce .</div>
-                  <div> 2 cloves garlic, crushed.</div>
-                  <div> 2 tsp (10 mL) sesame oil.</div>
-                  <div> 2 tsp (10 mL) maple syrup .</div>
-                  <div> 1 tsp (2 g) freshly grated ginger.</div>
-                  <div> Assembly.</div>
-                  <div> 6.3 oz (180 g) dry soba noodles.</div>
-                  <div> 1 tsp (5 mL) sesame oil.</div>
-                  <div> 4.9 oz (140 g) shiitake mushrooms, thinly sliced.</div>
-                  <div> 1½ cups (225 g) frozen shelled edamame beans, thawed.</div>
-                  <div> 1 avocado, sliced.</div>
-                  <div> 6 small raw radishes, sliced (optional).</div>
-                  <div> 1 stalk green onion, thinly sliced.</div>
-                  <div> 1 Tbsp (9 g) toasted sesame seeds.</div>
+                  <div> Salad.</div>
+                  <div> 1 cup (200 g) uncooked pearl couscous .</div>
+                  <div> 2 tsp (10 mL) olive oil.</div>
+                  <div> 2 cups (328 g) cooked chickpeas .</div>
+                  <div> 2 cups cherry tomato, quartered .</div>
+                  <div> ½ tsp salt.</div>
+                  <div> ¼ tsp ground black pepper.</div>
+                  <div> ½ cucumber, sliced into half-moons.</div>
+                  <div> ¼ cup (34 g) sliced black olives.</div>
+                  <div> 3 Tbsp (6 g) fresh mint leaves, chopped.</div>
+                  <div> 2 Tbsp (3 g) fresh basil, chopped.</div>
+                  <div> 2 Tbsp (2 g) fresh parsley, chopped (optional).</div>
+                  <div>¼ cup (32 g) roasted almonds, chopped (optional).</div>
                   
                   <h3>Direction :</h3>
                   <p>
-                  In a mason jar or bowl, mix together the rice vinegar, tahini, miso paste, soy sauce, crushed garlic, sesame oil, maple syrup, and grated ginger.
-In a saucepan cook the soba noodles according to the package instructions, then drain. For us, this took about 5 minutes.
-                  <br/>Meanwhile heat up a large pan on high heat with the oil. When hot, add in the mushrooms and edamame beans and cook until softened, about 5 minutes.
-                  <br/>Then add the soba noodles, and dressing. Let everything heat up for 2 minutes.
-Divide the noodles between your bowls, and top with sliced avocado, radishes, green onions, and sesame seeds. 
- <br/>  Enjoy!
+                  Cook the couscous according to the package instructions. When cooked, drain.<br/>
+                  Meanwhile, to a medium pan on medium-high heat, add the oil, chickpeas, tomatoes, salt, and pepper. Cook for about 5 - 7 minutes, stirring occasionally until the tomatoes have softened a little bit. Remove from the heat before the tomatoes become too soft.<br/>
+                  In a small bowl, mix together the ingredients for the dressing.<br/>
+                  To a large bowl, add the drained couscous, tomato and chickpea mixture, cucumber slices, olives, and fresh herbs. Add the dressing, toss to combine, spinkle over the almonds, and enjoy!
                   </p>
-                </div>
+                </div>          
               </Col>
             </Row>
           </Container>
