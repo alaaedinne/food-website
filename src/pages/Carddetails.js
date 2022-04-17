@@ -17,7 +17,7 @@ const Carddetails = () => {
             <Row className="Row">
               <Col>
                   <div className='Image_part'>
-                    <img src={img}/>
+                    <img src={img} alt=""/>
                   </div>
               </Col>
               <Col>

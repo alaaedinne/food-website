@@ -16,8 +16,8 @@ const Carddetails4 = () => {
           <Container fluid>
             <Row className="Row">
               <Col>
-                  <div className='Image_part' alt="">
-                    <img src={img}/>
+                  <div className='Image_part' >
+                    <img src={img} alt=""/>
                   </div>
               </Col>
               <Col>
